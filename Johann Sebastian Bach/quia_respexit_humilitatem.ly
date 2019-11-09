@@ -58,7 +58,7 @@ oboeDAmore = \relative c'' {
   d e fis gis a4~ a16 e' dis cis bis a gis fis |
   eis d'( cis b) a g'( fis eis) fis d( cis bis) cis8 b16 a |
   
-  a2 r |
+  a2 r \bar "|."
 }
 
 sopranoVoice = \relative c'' {
