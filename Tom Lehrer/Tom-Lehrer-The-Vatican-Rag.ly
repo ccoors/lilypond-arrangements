@@ -97,8 +97,8 @@ verse_two = \lyricmode {
   So get down up -- on your knees, Fid -- dle with your ro -- sa -- ries,
   Bow your head with great re -- spect, and gen -- u -- flect, gen -- u flect, gen -- u -- flect!
   Make a cross on your ab -- do -- men, When in Rome do like a Ro -- man,
-  A -- ve Ma -- ri -- a, Gee, it's good to see ya, Get -- tin' ec -- stat -- ic an'
-  \repeat unfold 66 { \skip 1 }
+  A -- ve Ma -- ri -- a, Gee, it's good to see ya __ , Get -- tin' ec -- stat -- ic an'
+  \repeat unfold 65 { \skip 1 }
   sort -- a dra -- mat -- ic an' do -- in the Vat -- i -- can Rag!
 }
 
